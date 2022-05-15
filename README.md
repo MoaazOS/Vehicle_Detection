@@ -1,5 +1,8 @@
 ## Vehicle Detection
-
+## Members:
+* Ahmed Wael Ahmed Mohamed     ID: 1700214
+* Moaaz Osama Abd El_Mohymen   ID: 1701456
+* Mina Maher Mounir            ID: 1701540
 The goals / steps of this project are the following:
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
